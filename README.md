@@ -15,17 +15,17 @@ Hi, I'm Jeethu Srinivas!
 <br/>
 <p align="center">
 	<a href="https://github.com/JeethuSrini">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;App+Developer;Active%20Programmer;AI%20|%20ML%20Enthusiast;%20Team%20Player%20|NCC%20Cadet&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;ML+Engineer;Active%20Programmer;AI%20|%20ML%20Enthusiast;%20Team%20Player%20&center=true&width=380&height=45">
 	</a>
 </p>
 <p>
-Aspiring App developer with a proper knowledge and hands-on with Flutter and Android Stdio tools. I am Interested in Machine Learning Projects. I like taking part in Coding contests and learnt C,C++,Java,Python in leisure time. I am skilled Basketball player. I am a NCC cadet and I have completed 100 days of Training with army men.
+Aspiring Machine Learning Engineer with curious ML projects.
 </p>
 <hr>
 <pre>
-- 🔭Aspiring Computer Science Engineer and App Developer
+- 🔭Aspiring Machine Learning Engineer
 - 🌱Student at Bannari Amman Institute of Technology Erode and Indian Institute of Technology,Sathyamangalam
-- 💬I could answer your questions on ML, Python, C, CPP, Java.
+- 💬I could answer your questions on ML, AI, Python.
 </pre>
 </hr>
 
@@ -55,7 +55,7 @@ Aspiring App developer with a proper knowledge and hands-on with Flutter and And
     <a href="https://github.com/JeethuSrini"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/JeethuSrini"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/JeethuSrini"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/JeethuSrini"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    <a href="https://github.com/JeethuSrini"><img alt="Keras" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
 <!--
 ### 🗄️ Databases and Cloud Hosting
@@ -92,25 +92,8 @@ Aspiring App developer with a proper knowledge and hands-on with Flutter and And
 	<br/>
 </p>
 <br/>
-<summary><b>⚡ Top Languages</b></summary>
 <br/>
 
-<p align="center">
-	<a href="https://github.com/NITHESH2303">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeethuSrini&langs_count=8&layout=compact&theme=blue-green" alt="RJeethuSrini">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
-
-## <a href="https://github.com/JeethuSrini"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> LeetCode Stats
-<p align="center">
-	<a href="https://leetcode.com/JeethuSrini/">
-	<img src="https://leetcard.jacoblin.cool/JeethuSrini?theme=dark&font=Faustina" alt="JeethuSrini">
-	</a>
-	<br/>
 
 ## It's not perfect, isn't it?
 <p>
