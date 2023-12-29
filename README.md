@@ -42,8 +42,8 @@ Aspiring Machine Learning Engineer with curious ML projects.
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/JeethuSrini"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-    <a href="https://github.com/JeethuSrini"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/JeethuSrini"><img alt="Python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+    <a href="https://github.com/JeethuSrini"><img alt="C" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></a>
     <a href="https://github.com/JeethuSrini"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"></a>
 </p>
 
