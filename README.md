@@ -70,10 +70,6 @@ Aspiring Machine Learning Engineer with curious ML projects.
     <a href="https://github.com/JeethuSrini"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"></a>
     <a href="https://github.com/JeethuSrini"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-</br>
-
-<br/>
-<br/>
 
 
 ## It's not perfect, isn't it?
