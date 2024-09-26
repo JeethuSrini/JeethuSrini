@@ -24,8 +24,8 @@ Aspiring Machine Learning Engineer with curious ML projects.
 <hr>
 <pre>
 - 🔭Aspiring Machine Learning Engineer
-- 🌱Student at Bannari Amman Institute of Technology Erode, Sathyamangalam
-- 💬I could answer your questions on ML, AI, Python.
+- 🌱New York University, Class of 2026
+- 💬I could answer your ML, RL, and DS questions.
 </pre>
 </hr>
 
