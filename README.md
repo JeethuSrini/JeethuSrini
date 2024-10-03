@@ -15,7 +15,7 @@ Hi, I'm Jeethu Srinivas!
 <br/>
 <p align="center">
 	<a href="https://github.com/JeethuSrini">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;ML+Engineer;Active%20Programmer;AI%20|%20ML%20Enthusiast;%20Team%20Player%20&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Active%20Programmer;AI%20|%20ML%20Enthusiast;%20Team%20Player%20&center=true&width=380&height=45">
 	</a>
 </p>
 <p>
