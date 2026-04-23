@@ -22,73 +22,49 @@ Hi, I'm Jeethu Srinivas!
 
 ## 🚀 About Me
 
-- 🎓 M.S. in Data Science at [New York University](chatgpt://generic-entity?number=0) (2024–2026)  
+- 🎓 M.S. in Data Science at New York University (2024–2026)  
 - 🔬 Graduate Research Assistant @ NYU Langone  
-- 🤖 Focused on **ML Systems, RLHF, Clinical AI, and Scalable Pipelines**  
-- ⚡ Built GPU-accelerated systems with **10× speedups** and real-time ML pipelines  
-- 💬 Ask me about **Machine Learning, Reinforcement Learning, or Distributed Systems**
+- 🤖 Interested in **Machine Learning, RL, and Scalable Systems**  
+- ⚡ Experience building GPU-accelerated ML pipelines and real-time systems  
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Projects
 
-### 🦷 3D Teeth Reconstruction (Research)
+### 🦷 Teeth Reconstruction (Research)
 🔗 https://github.com/JeethuSrini/Teeth-Reconstruction  
-- Built **3D mesh reconstruction pipeline** using Statistical Shape Models  
-- GPU-accelerated ICP + Coherent Point Drift  
-- Achieved **70% runtime reduction** on large-scale meshes  
+- 3D mesh reconstruction using Statistical Shape Models  
+- GPU-accelerated ICP and Coherent Point Drift  
+- Reduced registration runtime significantly on large meshes  
 
 ---
 
-### 🏥 PulseStream – ICU Anomaly Detection
-- Real-time anomaly detection on **PhysioNet ICU streams (~4K patients)**  
-- Tiered system:
-  - ⚡ Fast statistical detection (Z-score + IQR)
-  - 🌲 Isolation Forest for deeper analysis  
-- Optimized pipeline with **Numba, multiprocessing, Float32 tuning**
+### 🏥 PulseStream – ICU Anomaly Detection  
+- Real-time anomaly detection on ICU patient streams  
+- Two-stage system: statistical detection + Isolation Forest  
+- Optimized using Numba, multiprocessing, and efficient data pipelines  
 
 ---
 
-### 🌆 Smart311 AI – Urban Command Center
-- 🏆 **Top 5 – GDG Build with AI NYC Hackathon 2026**  
-- Multi-agent system:
-  - Intake Agent  
-  - Spatial Analysis Agent  
-  - Severity Engine  
-- Built on **GCP (Vertex AI, Cloud Run, Firestore)**  
-- Achieved **sub-second triage latency**
+### 🌆 Smart311 AI – Urban Command Center  
+- Top 5 – GDG Build with AI NYC Hackathon 2026  
+- Multi-agent system using GCP (Vertex AI, Cloud Run, Firestore)  
+- Designed async pipeline for intake, spatial analysis, and severity prediction  
 
 ---
 
-### 🎬 Bias-Aware Recommender System
-- Processed **32M+ MovieLens ratings** using PySpark + Hadoop  
-- Built ALS recommender (**R² = 0.807, AUROC = 0.8975**)  
-- Detected bias using:
-  - Mann-Whitney U Test  
-  - Cliff’s Delta  
-- Improved query performance by **40%**
+### 🎬 Bias-Aware Recommender System  
+- Processed large-scale MovieLens dataset using PySpark + Hadoop  
+- Built ALS recommender and analyzed bias using statistical tests  
+- Improved performance with optimized distributed queries  
 
 ---
 
-## 🔬 Research Work
+## 🔬 Research & Experience
 
-### 🧠 Clinical AI + RLHF
-- Developed **RV-GRPO** (reward-based RL framework)  
-- Fine-tuned models:
-  - LLaMA  
-  - Qwen  
-  - Phi  
-- Improved:
-  - ✅ Helpfulness (+28%)  
-  - 🔒 Safety (+17%)  
-  - ❤️ Empathy (+30%)  
-
----
-
-### ⚡ Scalable ML Systems
-- GPU pipelines with **cuML, RAPIDS, CuPy (A100 GPUs)**  
-- Distributed training + SLURM automation  
-- Docker + CI/CD with GitHub Actions  
+- 🧠 Worked on neural data classification pipelines at NYU Langone using GPU acceleration for large-scale datasets  
+- 🤖 Developed reinforcement learning approaches for clinical AI systems, improving response quality and safety  
+- ⚡ Experience with distributed systems, SLURM-based workflows, and reproducible ML pipelines  
 
 ---
 
@@ -98,13 +74,13 @@ Hi, I'm Jeethu Srinivas!
 Python • SQL • C/C++ • Java • Bash • R  
 
 **ML & AI:**  
-PyTorch • Scikit-learn • RLHF • NLP • Deep Learning  
+PyTorch • Scikit-learn • NLP • Deep Learning • Reinforcement Learning  
 
 **Big Data & Cloud:**  
-PySpark • Hadoop • HDFS • GCP • AWS • Kubernetes  
+PySpark • Hadoop • GCP • AWS • Docker • Kubernetes  
 
 **Backend & Systems:**  
-FastAPI • PostgreSQL • MongoDB • Docker • CI/CD  
+FastAPI • PostgreSQL • MongoDB • CI/CD  
 
 ---
 
@@ -121,4 +97,4 @@ FastAPI • PostgreSQL • MongoDB • Docker • CI/CD
 
 ---
 
-⭐️ From [JeethuSrini](https://github.com/JeethuSrini)
+⭐️ From https://github.com/JeethuSrini
