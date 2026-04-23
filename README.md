@@ -35,36 +35,39 @@ Hi, I'm Jeethu Srinivas!
 🔗 https://github.com/JeethuSrini/Teeth-Reconstruction  
 - 3D mesh reconstruction using Statistical Shape Models  
 - GPU-accelerated ICP and Coherent Point Drift  
-- Reduced registration runtime significantly on large meshes  
+- Reduced runtime on large-scale meshes  
 
 ---
 
 ### 🏥 PulseStream – ICU Anomaly Detection  
+🔗 https://github.com/Jkanishkha0305/PulseStream  
 - Real-time anomaly detection on ICU patient streams  
 - Two-stage system: statistical detection + Isolation Forest  
-- Optimized using Numba, multiprocessing, and efficient data pipelines  
+- Optimized pipeline using Numba and efficient processing  
+- 🤝 Collaboration project  
 
 ---
 
-### 🌆 Smart311 AI – Urban Command Center  
-- Top 5 – GDG Build with AI NYC Hackathon 2026  
-- Multi-agent system using GCP (Vertex AI, Cloud Run, Firestore)  
-- Designed async pipeline for intake, spatial analysis, and severity prediction  
+### 🌆 CityNerve – Urban Intelligence System  
+🔗 https://github.com/Jkanishkha0305/citynerve  
+- Smart city monitoring and response system  
+- Designed scalable backend for handling urban signals and events  
+- Built as part of collaborative AI system development  
 
 ---
 
 ### 🎬 Bias-Aware Recommender System  
-- Processed large-scale MovieLens dataset using PySpark + Hadoop  
-- Built ALS recommender and analyzed bias using statistical tests  
-- Improved performance with optimized distributed queries  
+- Built on MovieLens dataset using PySpark + Hadoop  
+- Implemented ALS model and statistical bias analysis  
+- Improved distributed query performance  
 
 ---
 
 ## 🔬 Research & Experience
 
-- 🧠 Worked on neural data classification pipelines at NYU Langone using GPU acceleration for large-scale datasets  
-- 🤖 Developed reinforcement learning approaches for clinical AI systems, improving response quality and safety  
-- ⚡ Experience with distributed systems, SLURM-based workflows, and reproducible ML pipelines  
+- 🧠 Worked on **neural data classification pipelines** at NYU Langone using GPU acceleration for large-scale datasets  
+- 🤖 Developed reinforcement learning approaches for clinical AI systems  
+- ⚡ Experience with distributed systems, SLURM workflows, and reproducible ML pipelines  
 
 ---
 
