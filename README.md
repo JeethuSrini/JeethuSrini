@@ -32,7 +32,7 @@ Hi, I'm Jeethu Srinivas!
 ## 🧠 Projects
 
 ### 🦷 Teeth Reconstruction (Research)
-🔗 https://github.com/JeethuSrini/Teeth-Reconstruction  
+🔗 https://github.com/JeethuSrini/Teeth-Reconstruction-  
 - 3D mesh reconstruction using Statistical Shape Models  
 - GPU-accelerated ICP and Coherent Point Drift  
 - Reduced runtime on large-scale meshes  
